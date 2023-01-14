@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.dropdown-toggle{
+    background-color: lightgreen;
+    color: white;
+}
+.dropdown-toggle:hover{
+    background-color: lightgreen;
+    color: white;
+}
+.dropdown-toggle:focus{
+    background-color: lightgreen;
+    color: white;
+}
+
+.dropdown-menu{
+    background-color: lightgreen;
+}

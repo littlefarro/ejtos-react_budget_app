@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.dropdown-toggle{
+    background-color: lightgreen;
+    color: white;
+}
+.dropdown-toggle:hover{
+    background-color: lightgreen;
+    color: white;
+}
+.dropdown-toggle:focus{
+    background-color: lightgreen;
+    color: white;
+}
+
+.dropdown-menu{
+    background-color: lightgreen;
+}
+.btn-inc-dec{
+    color: white;
+    border: none;
+    font-size: 50px;
+    font-weight:900;
+    width: 50px;
+    height: 50px;
+    line-height: 40px;
+    border-radius: 100%;
+    padding-bottom: 10px;
+}
+.btn-plus{
+    background-color: #4eae5c;
+}
+
+.btn-minus{
+    background-color: #af1e11;
+}
